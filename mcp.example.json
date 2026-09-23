@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "apify-govdeals-scraper": {
+      "url": "https://mcp.apify.com?tools=123webdata/govdeals-scraper"
+    }
+  }
+}
